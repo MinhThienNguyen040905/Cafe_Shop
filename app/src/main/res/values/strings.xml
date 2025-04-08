@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cafe_Shop</string>
+    <string name="choice_your_n_favorite_coffe">Choice Your \n Favorite Coffe</string>
+    <string name="the_best_grain_the_finest_roast_n_the_powerfull_flavor">The best grain, the finest roast \n the powerfull flavor</string>
 </resources>
