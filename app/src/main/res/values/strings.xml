@@ -3,4 +3,7 @@
     <string name="choice_your_n_favorite_coffe">Choice Your \n Favorite Coffe</string>
     <string name="the_best_grain_the_finest_roast_n_the_powerfull_flavor">The best grain, the finest roast \n the powerfull flavor</string>
     <string name="search_anything">Search anything...</string>
+    <string name="category">Category</string>
+    <string name="popular_caffees">Popular Caffees</string>
+    <string name="see_all">See all</string>
 </resources>
