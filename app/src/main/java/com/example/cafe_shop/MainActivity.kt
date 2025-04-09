@@ -31,6 +31,6 @@ class MainActivity : AppCompatActivity() {
                 .into(binding.banner)
             binding.progressBarBanner.visibility=View.GONE
         }
-        viewModel.loadBanner()
+       viewModel.loadBanner()
     }
 }

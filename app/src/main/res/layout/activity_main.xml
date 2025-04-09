@@ -93,7 +93,8 @@
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:minHeight="100dp">
 
                 <ProgressBar
                     android:id="@+id/progressBarCategory"
@@ -102,7 +103,7 @@
                     android:layout_height="wrap_content"
                     android:indeterminateTint="@color/orange"
                     android:indeterminateTintMode="src_in"
-                    app:layout_constraintBottom_toBottomOf="@+id/recyclerViewCat"
+                    app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="@+id/recyclerViewCat" />
